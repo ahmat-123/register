@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "ahmat-123",
+    "email": "cobavpsfree@gmail.com"
+  },
+  "record": {
+    "NS": ["daisy.ns.cloudflare.com", "hal.ns.cloudflare.com"]
+  }
+}
